@@ -94,12 +94,14 @@ Dashboard interaktif dibuat menggunakan Looker Studio, mencakup:
 - Korelasi antara kepuasan kerja dan attrition.
 
 Lihat dashboard melalui tautan berikut:  
-[![Dibuat dengan Looker Studio](https://img.shields.io/badge/Dibuat%20dengan-Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://lookerstudio.google.com/reporting/ddad8308-d445-4228-9208-ce9471113627)
+[![Dibuat dengan Looker Studio](https://img.shields.io/badge/Dibuat%20dengan-Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://lookerstudio.google.com/reporting/a37815f8-7dd2-423e-a9bc-c761505877a5)
+
 
 ![Dasboard 1](./Image/dasboard1.png)
 ![Dasboard 2](./Image/dasboard2.png)
 
 ## **Kesimpulan**
+
 
 Proyek ini berhasil mengidentifikasi faktor-faktor utama penyebab attrition karyawan di perusahaan Jaya Jaya Maju , seperti usia, gaji, dan kepuasan kerja. Model Random Forest yang dikembangkan memberikan prediksi akurat tentang karyawan yang berisiko keluar, sementara dashboard interaktif memungkinkan pemantauan real-time oleh departemen Human Resources (HR).
 
