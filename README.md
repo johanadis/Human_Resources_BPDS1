@@ -103,19 +103,13 @@ Lihat dashboard melalui tautan berikut:
 ## **Kesimpulan**
 
 
-Proyek ini berhasil mengidentifikasi faktor-faktor utama penyebab attrition karyawan di perusahaan Jaya Jaya Maju , seperti usia, gaji, dan kepuasan kerja. Model Random Forest yang dikembangkan memberikan prediksi akurat tentang karyawan yang berisiko keluar, sementara dashboard interaktif memungkinkan pemantauan real-time oleh departemen Human Resources (HR).
-
-### **Hasil dan Temuan**
-- **Faktor Utama Attrition**: Usia, gaji bulanan, kepuasan kerja, dan lama bekerja adalah pendorong utama attrition.
-- **Performa Model**: CatBoost memiliki akurasi tertinggi, menjadikannya model terbaik untuk prediksi.
-![Perbandingan Akurasi Model](./Image/model.png)
-
+Proyek ini berhasil mengidentifikasi faktor-faktor utama penyebab attrition karyawan di perusahaan Jaya Jaya Maju, seperti usia, gaji, dan lingkunan kerja. Model CatBoost memiliki akurasi tertinggi, memberikan prediksi akurat tentang karyawan yang berisiko keluar, sementara dashboard interaktif memungkinkan pemantauan real-time oleh departemen Human Resources (HR).
 
 ### **Rekomendasi Aksi**
 
-1. **Meningkatkan Kepuasan Kerja**: Adakan program pengembangan karyawan dan sesi feedback rutin.
+1. **Meningkatkan Kepuasan Kerja**: Meningkatkan kualitas lingkungan kerja melalui penyediaan fasilitas yang memadai, serta menyelenggarakan program pengembangan karyawan dan sesi umpan balik secara rutin.
 2. **Kompensasi Kompetitif**: Tinjau ulang struktur gaji untuk menyesuaikan dengan standar industri.
-3. **Dukungan Karyawan Baru**: Berikan pelatihan intensif untuk karyawan dengan masa kerja pendek.
+3. **Dukungan Karyawan Baru**: Memberikan pelatihan intensif untuk karyawan dengan masa kerja pendek.
 4. **Fleksibilitas Kerja**: Terapkan kebijakan kerja jarak jauh untuk karyawan yang tinggal jauh.
 5. **Pemantauan Berkala**: Gunakan dashboard untuk mendeteksi tren attrition secara proaktif.
 
